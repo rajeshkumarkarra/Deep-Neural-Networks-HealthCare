@@ -12,6 +12,6 @@ pydicom==0.9.9
 PyYAML==3.12
 scipy==0.19.1
 six==1.10.0
-tensorflow==1.2.1
+tensorflow==2.3.1
 Theano==0.9.0
 Werkzeug==0.12.2
